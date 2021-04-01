@@ -4,5 +4,5 @@
 	"debug.openDebug": "neverOpen",
 	"python.linting.enabled": false,
 	"python.languageServer": "Microsoft",
-	"python.pythonPath": "/Users/nicola/Nicola/projects/EV3/venv/bin/python3.7"
+	"python.pythonPath": "/Users/nicola/Nicola/projects/EV3/ev3-python-mindstorm/venv/bin/python3.8"
 }
