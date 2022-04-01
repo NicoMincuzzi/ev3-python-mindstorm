@@ -39,7 +39,7 @@ This process erases everything on your microSD card, including any previous Micr
 
 To install the MicroPython tools on your microSD card:
 
-1. Download the EV3 MicroPython microSD card image and save it in a convenient location. This file is approximately 360 MB. You do not need to unzip the file.
+1. Download the [EV3 MicroPython microSD card image](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3) and save it in a convenient location. This file is approximately 360 MB. You do not need to unzip the file.
 
 2. Download and install a microSD card flashing tool such as Etcher.
 
